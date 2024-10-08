@@ -39,7 +39,7 @@ HANGMANPICS = ['''
      ===''']
 
 # List of possible words
-words = ['python', 'java', 'developer', 'algorithm', 'hangman', 'programming', 'challenge', 'developer','apple','butterfly','rainbow','rhino','diamond','Lily','xylophone','watermellon','zebra','australia']
+words = ['python', 'java', 'developer', 'algorithm', 'hangman', 'programming', 'challenge', 'developer','apple','butterfly','rainbow','rhino','diamond','lily','xylophone','watermellon','zebra','australia']
 
 def get_random_word(word_list):
     """Choose a random word from the list of words."""
